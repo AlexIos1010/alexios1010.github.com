@@ -13,29 +13,17 @@
 					<key>url</key>
 					<string>http://192.168.90.108:8080/webapps/test.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/AlexIos1010/alexios1010.github.com/master/Appicon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/AlexIos1010/alexios1010.github.com/master/Appicon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>OC.ELC</string>
+				<string>com.21cn.cloud189</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ELC</string>
+				<string>Test</string>
 			</dict>
 		</dict>
 	</array>
